@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Falah Auladi</h1>
-<h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
+<h3 align="center">UI/UX Enthusiast | #Front End Developer 🐧</h3>
 
 <br><br>
 
