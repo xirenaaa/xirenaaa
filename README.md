@@ -57,21 +57,4 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
 </div>
-
-<br>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
-  
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=synthever&layout=compact&theme=dracula" />
-</div>
-
-
 ---
