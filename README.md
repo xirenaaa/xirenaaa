@@ -58,4 +58,6 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
 </div>
 
-![xirenaaa's Stats](https://github-readme-stats.vercel.app/api?username=xirenaaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![xirenaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xirenaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![xirenaaa's Stats](https://github-readme-stats.vercel.app/api?username=xirenaaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![xirenaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xirenaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![xirenaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xirenaaa&theme=vue-dark&hide_border=true)
